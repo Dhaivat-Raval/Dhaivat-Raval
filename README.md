@@ -43,7 +43,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhaivat-Raval&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
 ###
@@ -53,13 +53,13 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/your_username">
+  <a href="https://www.linkedin.com/in/dhaivatraval">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn logo" />
   </a>
-  <a href="mailto:your_email@example.com">
+  <a href="mailto:ravaldhaivat19@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="Email logo" />
   </a>
-  <a href="https://twitter.com/your_username">
+  <a href="https://twitter.com/imdhaivatraval">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="25" alt="Twitter logo" />
   </a>
 </div>
