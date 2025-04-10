@@ -24,7 +24,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Welcome Fellow Coder 👋</h1>
 
 ###
 
@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Dhaivat from Rajkot, Gujarat, India.<br><br>- 🔭 I’m working as Freelancer in Flutter.<br>- 📚 I'm currently learning Android and React Native.<br>- ⚡ In my free time I also learn various speaking languages like German, Italian, and Japanese.</p>
 
 ###
 
@@ -41,9 +41,9 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original-wordmark.svg" height="40" alt="c logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c++/c++" height="40" alt="c++ logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
   <img width="12" />
