@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
   <a href="mailto:ravaldhaivat19@gmail.com?subject=Hello%20Dhaivat&body=I%20found%20your%20GitHub%20profile%20awesome!">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=ff0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail logo"  />
   </a>
   <a href="https://x.com/imdhaivatraval">
   <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="X logo"  />
