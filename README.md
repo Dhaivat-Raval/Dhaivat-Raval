@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="150" alt="Coding Gif">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif]">
 </div>
 
 ### 
 
-<h1 align="center">Crafting Code & Dreams</h1>
+<h1 align="center">Welcome Fellow Developer 👋🏻</h1>
 
 ###
 
@@ -13,19 +13,19 @@
 ###
 
 <p align="center">
-  I'm a dedicated full-stack developer with a passion for creating efficient and scalable applications. I enjoy exploring new technologies and continuously improving my skill set.
+ I'm a curious Flutter developer on a mission to build smooth, scalable apps and strong digital identities. Always learning, always creating — one pixel and one line of code at a time.
 </p>
 
 ###
 
-<h3 align="left">🛠 Tech Stack</h3>
+<h3 align="left">🛠 Tools and Technologies</h3>
 
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="React logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="Node.js logo" />
   <img width="12" />
