@@ -1,79 +1,94 @@
+<div align="center">
+  <!-- Retro Developer Pixel Art Gif -->
+  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=ecf05e47yy7stime6itfk9mijnq5rotkf7s4ubpkbzfs81vs&ep=v1_stickers_related&rid=giphy.gif&ct=s" width="400" alt="Developer GIF" />
 
+  <!-- Animated Typing SVG Header -->
+  <h1>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Hello+Fellow+Developer!+👋;I'm+Dhaivat+Raval;Co-Founder+at+Tech+IT+Up;Mobile+%26+Web+Developer" alt="Typing SVG" />
+  </h1>
+
+  <!-- Social Badges -->
+  <p>
+    <a href="https://linkedin.com/in/dhaivat-raval" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn logo" />
+    </a>
+    <a href="https://github.com/Dhaivat-Raval" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub logo" />
+    </a>
+    <a href="mailto:dhaivatraval.work@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Email logo" />
+    </a>
+  </p>
+</div>
+
+<hr />
+
+<!-- Main Info Table Layout for Premium Presentation -->
+<table align="center" width="100%" border="0" cellpadding="10">
+  <tr>
+    <td width="55%" valign="top">
+      <h3>👩‍💻 About Me</h3>
+      <p>
+        I am a tech enthusiast, software developer, and entrepreneur based in <b>Rajkot, Gujarat, India</b>. 
+        As the <b>Co-Founder of Tech IT Up</b>, I am driven by the thrill of building solutions that bridge technology and daily life.
+      </p>
+      <ul>
+        <li>🔭 <b>Currently working on:</b> Scaling tech initiatives and client projects at <b>Tech IT Up</b>.</li>
+        <li>📚 <b>Learning & exploring:</b> Android application development integrated with REST APIs.</li>
+        <li>📈 <b>Interests & hobbies:</b> Analyzing the Stock Market, economics, and reading technology-driven novels.</li>
+        <li>⚡ <b>Fun Fact:</b> I love learning about how financial markets intersect with emerging tech.</li>
+      </ul>
+    </td>
+    <td width="45%" valign="top" align="center">
+      <h3>🔥 Profile Metrics</h3>
+      <!-- Dynamic Visitor Counter & Top Languages -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhaivat-Raval&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<hr />
+
+<div align="center">
+  <h3>🛠️ Tools & Technologies</h3>
   
+  <!-- Grouped Tech Stack Icons -->
+  <p>
+    <!-- Languages -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" />&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" height="40" alt="Java logo" />&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="Python logo" />&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="JavaScript logo" />&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="40" alt="PHP logo" />&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart logo" />
+  </p>
+  <p>
+    <!-- Mobile & Frameworks -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter logo" />&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original-wordmark.svg" height="40" alt="Firebase logo" />&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="HTML5 logo" />&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" alt="CSS3 logo" />
+  </p>
+  <p>
+    <!-- Database -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" height="40" alt="MySQL logo" />&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle logo" />
+  </p>
+</div>
 
+<hr />
 
 <div align="center">
-   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=ecf05e47yy7stime6itfk9mijnq5rotkf7s4ubpkbzfs81vs&ep=v1_stickers_related&rid=giphy.gif&ct=s">
+  <h3>📊 GitHub Stats</h3>
+  <table border="0" cellpadding="5">
+    <tr>
+      <td valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=Dhaivat-Raval&show_icons=true&theme=tokyonight&hide_border=true" height="195" alt="GitHub Stats" />
+      </td>
+      <td valign="top">
+        <img src="https://streak-stats.demolab.com?user=Dhaivat-Raval&theme=tokyonight&hide_border=true" height="195" alt="Streak Stats" />
+      </td>
+    </tr>
+  </table>
 </div>
-
-###
-
-<div align="center">
-  <a>
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a>
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
-  <a>
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-</div>
-
-###
-
-<h1 align="center">Hello Fellow Developer 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Dhaivat from Rajkot, Gujarat, India. <br><br>- 🔭 I’m working as Co-founder at Tech IT Up.<br>- 📚 I'm currently learning Android with REST APIs<br>- ⚡ In my free time I like to read a lot about different kinds of topics such as Stock Market and technology driven novels./p>
-
-###
-
-<h3 align="left">🛠 Tools and Technologies</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="HTML5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" alt="CSS3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="JavaScript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" height="40" alt="MySQL logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="ORACLE logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" height="40" alt="Java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="Python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original-wordmark.svg" height="40" alt="Firebase logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
