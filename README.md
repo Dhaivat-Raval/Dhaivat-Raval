@@ -4,7 +4,7 @@
 
   <!-- Animated Typing SVG Header -->
   <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Hello+Fellow+Developer!+👋;I'm+Dhaivat+Raval;Co-Founder+at+Tech+IT+Up;Mobile+%26+Web+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Hello+Fellow+Developer%21+%F0%9F%91%8B;I%27m+Dhaivat+Raval;Co-Founder+at+Tech+IT+Up;Mobile+and+Web+Developer" alt="Typing SVG" />
   </h1>
 
   <!-- Social Badges -->
@@ -40,9 +40,9 @@
       </ul>
     </td>
     <td width="45%" valign="top" align="center">
-      <h3>🔥 Profile Metrics</h3>
-      <!-- Dynamic Visitor Counter & Top Languages -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhaivat-Raval&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
+      <h3>🔥 Profile Activity</h3>
+      <!-- Dynamic Activity Graph -->
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhaivat-Raval&theme=tokyonight" width="100%" alt="Activity Graph" />
     </td>
   </tr>
 </table>
@@ -84,10 +84,18 @@
   <table border="0" cellpadding="5">
     <tr>
       <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=Dhaivat-Raval&show_icons=true&theme=tokyonight&hide_border=true" height="195" alt="GitHub Stats" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dhaivat-Raval&theme=tokyonight" height="200" alt="GitHub Profile Details" />
       </td>
       <td valign="top">
-        <img src="https://streak-stats.demolab.com?user=Dhaivat-Raval&theme=tokyonight&hide_border=true" height="195" alt="Streak Stats" />
+        <img src="https://streak-stats.demolab.com?user=Dhaivat-Raval&theme=tokyonight&hide_border=true" height="200" alt="Streak Stats" />
+      </td>
+    </tr>
+    <tr>
+      <td valign="top">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dhaivat-Raval&theme=tokyonight" height="200" alt="Repos Per Language" />
+      </td>
+      <td valign="top">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dhaivat-Raval&theme=tokyonight" height="200" alt="Most Commits Per Language" />
       </td>
     </tr>
   </table>
